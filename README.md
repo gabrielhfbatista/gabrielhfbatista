@@ -1,10 +1,8 @@
 Hello everyone 👋🏾!!!
 
-I'm a Full-Stack developer and actually I'm working with pure JavaScript.
+I'm a Full-Stack developer and actually I'm working with vanilla Js.
 
 In the programming I find the combination of somethings that I love, solving problems and being in new projects.
-
-I belive we can use our code to turn our dreams into reality.
 
 ## Some of my Skills
 <div style="display: inline_block"><br>
